@@ -75,19 +75,22 @@ Access points were placed into AP Groups, and each SSID was mapped to the matchi
 
 All four WLANs (IT, HR, Finance, Guest) as listed on the controller.
 
-![WLANs tab](docs/images/wlans-tab.png)
+<img width="1918" height="1008" alt="wlan" src="https://github.com/user-attachments/assets/d048458c-1e3f-4dc1-9cc5-326d5ddcbe38" />
+
 
 ### AP Groups
 
 AP Groups with the SSID mapped to each one.
 
-![AP Groups](docs/images/ap-groups.png)
+<img width="1625" height="682" alt="apgroups" src="https://github.com/user-attachments/assets/dcfd64c8-b69c-4a7c-b93c-0dd6dfd5e644" />
+
 
 ### Wireless tab
 
 Lightweight access points registered with the controller.
 
-![Wireless tab](docs/images/wireless-tab.png)
+<img width="950" height="682" alt="wirless" src="https://github.com/user-attachments/assets/d3d6e05d-e078-42ea-b96f-a0eaeb2200cb" />
+
 
 ## Testing
 
